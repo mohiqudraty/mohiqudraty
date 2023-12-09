@@ -29,9 +29,9 @@ I'm a junior developer enthusiastic about the MERN stack (MongoDB, Express.js, R
 # 📊 Contribution Overview:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohiqudraty&" alt="mohiqudraty" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohiqudraty&show_icons=true&locale=en" alt="mohiqudraty" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohiqudraty&show_icons=true&locale=en&layout=compact" alt="mohiqudraty" /></p> <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohiqudraty&show_icons=true&locale=en&layout=compact" alt="mohiqudraty" /></p>
 
-
+<p></p>
 <h3> 🏆 GitHub Achievements: </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohiqudraty" alt="mohiqudraty" /></a> </p>
 
