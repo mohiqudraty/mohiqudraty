@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Mohiuddin</h1>
 
-#### Passionate MERN Stack Developer | Crafting Innovative Web Solutions with Code
+<h3 align="center">Passionate MERN Stack Developer | Crafting Innovative Web Solutions with Code</h3>
 
 ### About Me
 
