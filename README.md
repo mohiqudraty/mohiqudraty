@@ -15,7 +15,7 @@ I'm a junior developer enthusiastic about the MERN stack (MongoDB, Express.js, R
 - 💬 Let's discuss anything related to Web Development
 - 📫 Reach me: mohi.qudraty@gmail.com 
 
-### 🌐 Socials
+### 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohiuddin-qudraty) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MohiQudraty) 
 
