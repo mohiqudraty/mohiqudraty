@@ -32,6 +32,8 @@ I'm a junior developer enthusiastic about the MERN stack (MongoDB, Express.js, R
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohiqudraty&show_icons=true&locale=en&layout=compact" alt="mohiqudraty" /></p>
 
 
-<h3 align="left"> 🏆 GitHub Achievements: </h3>
+<div>
+  <h3 align="left"> 🏆 GitHub Achievements: </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohiqudraty" alt="mohiqudraty" /></a> </p>
+</div>
 
