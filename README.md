@@ -28,8 +28,8 @@ I'm a junior developer enthusiastic about the MERN stack (MongoDB, Express.js, R
 
 
 # 📊 Contribution Overview:
-<div aling="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohiqudraty&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/></div>
-![](https://github-readme-stats.vercel.app/api?username=mohiqudraty&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohiqudraty&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mohiqudraty&theme=default&hide_border=true&include_all_commits=true&count_private=false)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 
