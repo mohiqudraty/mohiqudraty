@@ -17,7 +17,7 @@ I'm a junior developer enthusiastic about the MERN stack (MongoDB, Express.js, R
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohiuddin-qudraty) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MohiQudraty) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/mohiuddin-qudraty](https://www.linkedin.com/in/mohiqudraty/)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MohiQudraty) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohiqudraty&icon=7&color=1)](https://visitcount.itsvg.in)
